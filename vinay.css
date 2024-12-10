@@ -1,0 +1,101 @@
+
+.container{
+	width:90%;
+	margin:auto;
+}
+.a h1{
+font-weight: bold;
+font-size:50px;
+color: white;
+	
+}
+.a p{
+	padding-left:13px ;
+	font-size: 20px;
+	color: white;
+}
+
+.card h5{
+	text-align: center;
+}
+.BG{
+	background-image: url("w.jpg");
+	background-position: center;
+	background-size: cover;
+	height:900px;
+}
+.c h2{
+	margin-top: 100px;
+	font-size: 40px;
+/*	color:green;*/
+}
+.c h4{
+	padding:15px;
+
+}
+.card-body h6{
+	color:black;
+	font-weight: bold;
+	padding-left:5px;
+}
+.bg1{
+	background-color:whitesmoke;
+	height:850px;
+	margin-top: -50px;
+}
+.card-body p{
+	padding:5px;
+}
+.one:hover{
+	transition: 2s;
+}
+.main{
+	display: grid;
+	grid-template-columns: 22.5% 22.5% 22.5% 22.5%;
+	gap: 30px;
+
+
+}
+
+
+.e{
+	display: flex;
+	justify-content: space-between;
+/*	margin-left: 60px;*/
+
+}
+.e1{
+	margin-left: 100px;
+
+}
+.e2{
+	margin:  60px 200px;
+	text-align: center;
+}
+.E{
+	background-color:#00FFFF;
+
+}
+#G{
+	background-color: darkgreen;
+	padding:10px 30px;
+	text-align: center;
+	color:white;
+	border:none;
+}
+.f{
+	display: flex;
+	justify-content: space-between;
+	
+}
+.K{
+	background-color: whitesmoke;
+	margin-top: -23px;
+}
+
+
+
+
+
+
+
